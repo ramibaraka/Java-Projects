@@ -1,0 +1,12 @@
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/model/Product.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/interfaces/ProdRep.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/service/ProductRepository.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/OrderTest.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/service/UserRepository.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/interfaces/UserRep.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/EcommerceManager.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/model/User.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/service/RepositryException.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/interfaces/OrderRep.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/model/Order.java
+/Users/RaBa/Developement/Ecommerce/src/main/java/se/sleepdev/ecommerce/service/OrderRepository.java
